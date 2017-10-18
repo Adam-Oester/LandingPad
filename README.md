@@ -4,7 +4,7 @@ It will be updated incrementially.
 
 
 
-[On to the site](http://adam-oester.github.io/Landingpad)
+[On to the site](http://adam-oester.github.io/LandingPad)
 
-%% Resources %%
+## Resources ##
 [Modern Buisness Bootstrap theme from StartBootstrap](https://startbootstrap.com/template-overviews/modern-business/)
